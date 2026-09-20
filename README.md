@@ -37,7 +37,7 @@
   The first run downloads MNIST into ./data. Training prints per-epoch train and test accuracy,
   then the audit window opens.
 
-  The visual audit
+   ## The visual audit
 
   audit_predictions lays out a 10×10 grid of test digits, each titled P:<predicted> / A:<actual> with a green ✓ or a red
   ✗. Scanning for the red marks is the fastest way to see
