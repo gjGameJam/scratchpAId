@@ -33,7 +33,7 @@
   ```bash
   pip install torch torchvision matplotlib tqdm
   python number_classifier.py
-
+  ```
   The first run downloads MNIST into ./data. Training prints per-epoch train and test accuracy,
   then the audit window opens.
 
