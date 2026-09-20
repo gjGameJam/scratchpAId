@@ -42,6 +42,3 @@
   audit_predictions lays out a 10×10 grid of test digits, each titled P:<predicted> / A:<actual> with a green ✓ or a red
   ✗. Scanning for the red marks is the fastest way to see
   what the network actually confuses.
-
-  No license section — you haven't made that call for `scratchpAId` and the portfolio's decisions don't obviously carry
-  over. Add one if you want
